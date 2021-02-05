@@ -1,4 +1,12 @@
+first right click on folder select git bash here
+
 git init
 git status
-git add .(if any change in file
+git add .(if any change in file)
 git commit -m "commit message"
+
+git remote add origin repository
+git push origin master
+
+first right click on folder select git bash here
+git clone repository
