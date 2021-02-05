@@ -1,4 +1,4 @@
 git init
 git status
-git add .
+git add .(if any change in file
 git commit -m "commit message"
