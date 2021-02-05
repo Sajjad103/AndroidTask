@@ -11,4 +11,4 @@ git push origin master
 first right click on folder select git bash here
 git clone repository
 
-git pull repository
+git pull https://github.com/Sajjad103/AndroidTask.git
