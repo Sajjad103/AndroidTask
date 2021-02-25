@@ -1,3 +1,4 @@
+After Merging
 first right click on folder select git bash here
 
 git init
